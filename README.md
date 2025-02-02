@@ -1,4 +1,4 @@
-![Cesar tatuando](./img/WhatsApp Image 2025-01-13 at 15.51.26.jpeg)
+![Cesar tatuando](/img/WhatsApp Image 2025-01-13 at 15.51.26.jpeg)
 
 # Tatoocesar
 Este es un proyecto web dedicado a mostrar una galería de tatuajes y ofrecer la posibilidad de entrar en contacto con el profesional para consultas y citas. Los usuarios pueden explorar diferentes estilos de tatuajes y contactar directamente al artista para más detalles.
